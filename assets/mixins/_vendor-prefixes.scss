@@ -1,0 +1,9 @@
+@mixin center-box($percentage) {
+  position: absolute;
+  top: $percentage;
+  left: $percentage;
+  transoform: translate(-$percentage, -$percentage);
+  background-color: pink;
+  width: 100px;
+  height: 100px;
+}
