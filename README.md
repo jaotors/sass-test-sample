@@ -6,4 +6,4 @@ Just a sample sass project to include blah blah
 - HTML
 
 ### Live Demo
-[https://google.com](https://google.com)
+[google.com](https://google.com)
